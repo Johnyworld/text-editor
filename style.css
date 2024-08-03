@@ -121,3 +121,7 @@ a {
   outline: none;
   padding: 16px;
 }
+
+#show-code[data-active="true"] {
+  background: #eee;
+}
